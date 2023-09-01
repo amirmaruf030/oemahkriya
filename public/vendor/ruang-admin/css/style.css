@@ -1,0 +1,13 @@
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    border-bottom-color: red !important;
+    color: red !important;
+}
+
+.bg-navbar {
+    background-color: #ee4d2d !important;
+}
+
+.sidebar-light .sidebar-brand {
+    background-color: #dc4325 !important;
+}
